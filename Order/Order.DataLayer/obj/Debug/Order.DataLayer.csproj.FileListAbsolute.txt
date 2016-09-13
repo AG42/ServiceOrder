@@ -1,0 +1,5 @@
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\bin\Debug\Order.DataLayer.dll
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\bin\Debug\Order.DataLayer.pdb
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\obj\Debug\Order.DataLayer.dll
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\obj\Debug\Order.DataLayer.pdb
+C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.DataLayer\obj\Debug\Order.DataLayer.csprojResolveAssemblyReference.cache

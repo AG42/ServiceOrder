@@ -1,0 +1,5 @@
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.dll
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.pdb
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.dll
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.pdb
+C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.csprojResolveAssemblyReference.cache

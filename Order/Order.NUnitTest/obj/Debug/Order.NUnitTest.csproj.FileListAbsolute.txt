@@ -1,0 +1,7 @@
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Order.NUnitTest.dll
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Order.NUnitTest.pdb
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.dll
+c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.pdb
+C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.csprojResolveAssemblyReference.cache
