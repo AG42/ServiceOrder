@@ -1,5 +1,15 @@
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\bin\Debug\Order.DataLayer.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\bin\Debug\Order.DataLayer.pdb
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\obj\Debug\Order.DataLayer.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.DataLayer\obj\Debug\Order.DataLayer.pdb
-C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.DataLayer\obj\Debug\Order.DataLayer.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\NLog.config
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\Order.DataLayer.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\Order.DataLayer.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\DenodoAdapter.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\Order.Common.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\System.Web.Http.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\NLog.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\System.Net.Http.Formatting.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\Newtonsoft.Json.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\Order.Common.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\DenodoAdapter.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\bin\Debug\System.Web.Http.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\obj\Debug\Order.DataLayer.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\obj\Debug\Order.DataLayer.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.DataLayer\obj\Debug\Order.DataLayer.pdb

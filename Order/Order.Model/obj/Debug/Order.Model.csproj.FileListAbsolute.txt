@@ -1,4 +1,8 @@
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Model\bin\Debug\Order.Model.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Model\bin\Debug\Order.Model.pdb
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Model\obj\Debug\Order.Model.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Model\obj\Debug\Order.Model.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Model.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Model.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Common.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\bin\Debug\NLog.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\bin\Debug\Order.Common.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\obj\Debug\Order.Model.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\obj\Debug\Order.Model.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Model\obj\Debug\Order.Model.pdb

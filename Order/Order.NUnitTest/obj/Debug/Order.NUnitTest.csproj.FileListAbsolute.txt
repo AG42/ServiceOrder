@@ -1,7 +1,48 @@
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Order.NUnitTest.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Order.NUnitTest.pdb
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.pdb
-C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\NLog.config
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.NUnitTest.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.NUnitTest.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.API.exe
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.BusinessLayer.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.Common.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.DataLayer.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.Model.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Web.Http.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Services.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Owin.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Fabric.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Web.Http.Owin.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\NLog.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\DenodoAdapter.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Newtonsoft.Json.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\ServiceFabricServiceModel.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Data.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.Owin.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.API.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.BusinessLayer.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.Common.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.DataLayer.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Order.Model.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Web.Http.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.Practices.Unity.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Services.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Fabric.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Web.Http.Owin.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\DenodoAdapter.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\System.Net.Http.Formatting.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Newtonsoft.Json.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Data.Interfaces.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.ServiceFabric.Data.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\Microsoft.Owin.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\bin\Debug\en-us\Microsoft.ServiceFabric.Internal.Strings.resources.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.NUnitTest\obj\Debug\Order.NUnitTest.pdb

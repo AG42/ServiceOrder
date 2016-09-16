@@ -1,5 +1,20 @@
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.pdb
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.pdb
-C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\NLog.config
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.BusinessLayer.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Common.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.DataLayer.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Model.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\System.Configuration.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\NLog.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\DenodoAdapter.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\System.Web.Http.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\System.Net.Http.Formatting.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Common.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.Model.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\Order.DataLayer.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\DenodoAdapter.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\bin\Debug\System.Web.Http.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.BusinessLayer\obj\Debug\Order.BusinessLayer.pdb

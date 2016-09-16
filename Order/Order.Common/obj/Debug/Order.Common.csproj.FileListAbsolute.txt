@@ -1,8 +1,6 @@
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Common\bin\Debug\Order.Common.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Common\bin\Debug\Order.Common.pdb
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Common\obj\Debug\Order.Common.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Common\obj\Debug\Order.Common.pdb
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Common\bin\Debug\NLog.config
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Common\bin\Debug\NLog.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.Common\bin\Debug\NLog.xml
-C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.Common\obj\Debug\Order.Common.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Common\bin\Debug\NLog.config
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Common\bin\Debug\Order.Common.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Common\bin\Debug\Order.Common.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Common\obj\Debug\Order.Common.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Common\obj\Debug\Order.Common.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.Common\obj\Debug\Order.Common.csprojResolveAssemblyReference.cache

@@ -1,8 +1,8 @@
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.LoadTest\bin\Debug\WebTest1.webtest
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.LoadTest\bin\Debug\Order.LoadTest.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.LoadTest\bin\Debug\Order.LoadTest.pdb
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.LoadTest\obj\Debug\Order.LoadTest.dll
-c:\Users\csing103\documents\visual studio 2015\Projects\Order\Order.LoadTest\obj\Debug\Order.LoadTest.pdb
-C:\Users\csing103\Documents\Visual Studio 2015\Projects\Order\Order.LoadTest\obj\Debug\Order.LoadTest.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\WebTest1.webtest
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Order.LoadTest.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Order.LoadTest.pdb
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\obj\Debug\Order.LoadTest.csprojResolveAssemblyReference.cache
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\obj\Debug\Order.LoadTest.dll
+C:\GitHubOrder\MICROSERVICES\POC\Order\Order.LoadTest\obj\Debug\Order.LoadTest.pdb

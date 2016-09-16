@@ -53,6 +53,28 @@
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Order.API\Order.API.csproj">
+      <Project>{2fccbfca-71d4-49e4-9664-37694834e4e0}</Project>
+      <Name>Order.API</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Order.BusinessLayer\Order.BusinessLayer.csproj">
+      <Project>{a122d2ab-ba12-46f0-97c2-138358ee1111}</Project>
+      <Name>Order.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Order.Common\Order.Common.csproj">
+      <Project>{ca14e25c-4763-402c-b7e8-07557dafe6e3}</Project>
+      <Name>Order.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Order.DataLayer\Order.DataLayer.csproj">
+      <Project>{48685de1-24f8-4564-bffd-1a3a1a5b6781}</Project>
+      <Name>Order.DataLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Order.Model\Order.Model.csproj">
+      <Project>{129eb54c-7916-4e73-9a90-c1d8eb044414}</Project>
+      <Name>Order.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

@@ -1,0 +1,9 @@
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\bin\Debug\NLog.config
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\bin\Debug\NLog.xsd
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\bin\Debug\Order.Common.dll
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\bin\Debug\Order.Common.pdb
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\bin\Debug\NLog.dll
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\bin\Debug\NLog.xml
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\obj\Debug\Order.Common.csprojResolveAssemblyReference.cache
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\obj\Debug\Order.Common.dll
+C:\OfflineCodeDownload\MICROSERVICES-master (1)\MICROSERVICES-master\src\Order.Service\Order.Common\obj\Debug\Order.Common.pdb
